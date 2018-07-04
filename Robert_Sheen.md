@@ -1,1 +1,1 @@
-Irish actor, best known for his role in Nathan's television series "Misfits"
+1. Irish actor, best known for his role in Nathan's television series "Misfits"

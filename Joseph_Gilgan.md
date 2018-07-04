@@ -1,1 +1,1 @@
-British actor, who gained fame thanks to roles such as woody in the film "It's England", Rudy in the TV series "Misfits" Cassidy in the TV series "Preacher."
+1. British actor, who gained fame thanks to roles such as woody in the film "It's England", Rudy in the TV series "Misfits" Cassidy in the TV series "Preacher."

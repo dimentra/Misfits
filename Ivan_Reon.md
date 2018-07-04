@@ -1,1 +1,4 @@
-British actor, singer and songwriter, is best known for Simon's role in the television series "Misfits" and Ramsey Bolton's role in The television series "game of thrones".
+1.  британский актёр, певец и автор песен, наиболее известен ролью Саймона в телесериале «Misfits» и ролью Рамси Болтона в телесериале «Игра престолов».
+
+
+Inline-style: ![alt text]( ivan.jpg "Logo Title Text 1")
