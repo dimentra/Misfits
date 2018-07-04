@@ -1,2 +1,1 @@
 1.  ирландский актёр, наиболее известный ролью Нейтана в телесериале «Отбросы».
- ![alt text]( https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D1%8D%D0%BD,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82#/media/File:Robert_Sheehan_MingFilmFest_2011.jpg "Logo Title Text 1")
